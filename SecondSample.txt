@@ -1,1 +1,1 @@
-Second file to test Git
+Second file to test Git. Trying to test the difference
